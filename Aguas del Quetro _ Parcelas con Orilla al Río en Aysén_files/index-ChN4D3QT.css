@@ -10,3 +10,9 @@
   opacity:1;
   transform:none;
 }
+
+.aq-hubspot-panel{background:var(--c-white);border:1px solid rgba(27,46,34,.14);border-radius:24px;padding:28px;box-shadow:0 18px 50px rgba(27,46,34,.12);font-family:var(--ff-body)}
+.aq-hubspot-panel--hero{background:rgba(246,241,233,.98)}
+.aq-hubspot-panel--dark{background:rgba(255,255,255,.96)}
+.aq-hubspot-panel .hs-form-frame{width:100%}
+.aq-hubspot-panel iframe{width:100% !important;min-height:520px}
