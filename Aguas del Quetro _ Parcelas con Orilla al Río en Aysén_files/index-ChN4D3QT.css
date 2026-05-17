@@ -16,3 +16,9 @@
 .aq-hubspot-panel--dark{background:rgba(255,255,255,.96)}
 .aq-hubspot-panel .hs-form-frame{width:100%}
 .aq-hubspot-panel iframe{width:100% !important;min-height:520px}
+.aq-hubspot-form .hs-form-footer,
+.aq-hubspot-form .hubspot-link__container,
+.aq-hubspot-form .legal-consent-container .hs-richtext,
+.aq-hubspot-form .hs_cos_wrapper_type_text{
+display:none!important;
+}
