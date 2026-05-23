@@ -22,3 +22,11 @@
 .aq-hubspot-form .hs_cos_wrapper_type_text{
 display:none!important;
 }
+
+.aq-thankyou{min-height:100vh;display:flex;align-items:center;background:linear-gradient(180deg,rgba(27,46,34,.98),rgba(27,46,34,.92));color:var(--c-white)}
+.aq-thankyou__inner{width:min(100%,1100px);margin:0 auto;padding:140px 24px 80px;display:grid;gap:28px;justify-items:start}
+.aq-thankyou__card{max-width:760px;background:rgba(246,241,233,.98);color:var(--c-text);border:1px solid rgba(255,255,255,.18);border-radius:28px;padding:42px;box-shadow:0 24px 70px rgba(0,0,0,.18)}
+.aq-thankyou__eyebrow{display:inline-block;margin-bottom:14px;letter-spacing:.18em;text-transform:uppercase;font-size:.78rem;color:var(--c-forest-mid)}
+.aq-thankyou__title{font-family:var(--ff-display);font-size:clamp(2.4rem,5vw,4.6rem);line-height:.95;margin:0 0 16px}
+.aq-thankyou__text{font-size:1.08rem;line-height:1.7;color:var(--c-text-mid);max-width:48ch}
+.aq-thankyou__actions{display:flex;flex-wrap:wrap;gap:14px;margin-top:26px}
